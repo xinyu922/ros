@@ -1,0 +1,8 @@
+prefix=/home/xinyu/Desktop/my_workspace/devel
+
+Name: mrobot_teleop
+Description: Description of mrobot_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xinyu/Desktop/my_workspace/devel/lib 
+Requires: 

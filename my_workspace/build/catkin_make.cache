@@ -1,0 +1,2 @@
+robot_description:robot_gazebo:robot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/xinyu/Desktop/my_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/xinyu/Desktop/my_workspace/install -G Unix Makefiles
