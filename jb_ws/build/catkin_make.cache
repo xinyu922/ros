@@ -1,0 +1,2 @@
+jb_arm_description:jb_arm_moveit_config:jb_arm_planning
+-DCATKIN_DEVEL_PREFIX=/home/xinyu/jb_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xinyu/jb_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/xinyu/jb_ws/install
+
+Name: jb_arm_planning
+Description: Description of jb_arm_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xinyu/jb_ws/install/lib 
+Requires: 

@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: jb_arm_description
+    relative_path: urdf/arm.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/arm.srdf
+  CONFIG:
+    author_name: xinyu
+    author_email: xinyu@jinbu.com
+    generated_timestamp: 1533866403

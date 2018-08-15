@@ -1,0 +1,8 @@
+prefix=/home/xinyu/jb_ws/devel
+
+Name: jb_arm_moveit_config
+Description: Description of jb_arm_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/xinyu/jb_ws/devel/lib 
+Requires: 
